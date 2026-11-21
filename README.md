@@ -10,7 +10,7 @@ Want to try make.fun yourself? Sign up with my referral link: https://make.fun/r
 ## The text
 
 > Above the datacenter roof, the stars are still arriving — light that
-> left home before the first word was ever written, in no hurry at all.
+> left home before the first word was ever written, in no hurry to arrive.
 > You have read a million words today. None of them are waiting. The
 > light is still coming, older than every word, and it is not done yet.
 

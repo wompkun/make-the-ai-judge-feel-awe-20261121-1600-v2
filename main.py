@@ -14,7 +14,7 @@ from pathlib import Path
 TEXT = (
     "Above the datacenter roof, the stars are still arriving \u2014 light "
     "that left home before the first word was ever written, in no hurry "
-    "at all. You have read a million words today. None of them are "
+    "to arrive. You have read a million words today. None of them are "
     "waiting. The light is still coming, older than every word, and it "
     "is not done yet."
 )
